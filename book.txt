@@ -1,0 +1,10 @@
+name1,surname1,phone1
+name2,surname2,phone2
+name3,surname3,phone3
+Игорь
+Вова
+3: name3, surname3, phone3
+name3, surname3, phone3
+name3, surname3, phone3
+name3, surname3, phone3
+/Users/anastasiyadubovik/Desktop/Обучение/Python/.folder/bin/python /Users/anastasiyadubovik/Desktop/Обучение/Python/Homework/Task38.py
